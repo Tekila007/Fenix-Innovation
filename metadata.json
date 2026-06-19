@@ -1,0 +1,6 @@
+{
+  "name": "Fênix Innovation",
+  "description": "Plataforma de portfólio, serviços de design, identidade visual e gerenciamento de orçamentos para a Fênix Innovation",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
